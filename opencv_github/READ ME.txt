@@ -1,0 +1,4 @@
+In this folder:
+Linux
+
+./OpenCV_Project <Path Big Image> <Path Small Images>
